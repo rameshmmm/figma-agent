@@ -1,1 +1,1 @@
-# figma-agent
+# Automated-UX-Designer-Agent
